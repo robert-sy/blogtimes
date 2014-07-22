@@ -54,7 +54,13 @@ h1 {
     clear:both
 }
 #header-paragraph{
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-family: serif;
     font-size: 20px;
+}
+#subheader-paragraph{
+    margin-bottom: 20px;
+    font-family: serif;
+    font-size: 15px;
+    font-style: italic;
 }
